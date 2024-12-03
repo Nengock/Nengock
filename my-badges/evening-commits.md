@@ -9,7 +9,7 @@ Commits:
 - <a href="https://github.com/parmantolab/hari-rtc4portal/commit/e9684744d451e83c59c92fed3a17ed7c09a7226f">e968474</a>
 - <a href="https://github.com/parmantolab/hari-rtc4portal/commit/d2c8c763792fefb7073b017b03321cd0ef567c68">d2c8c76</a>
 - <a href="https://github.com/parmantolab/hari-rtc4portal/commit/6c0578703e30cd614ed0e07bb3d9aa02d1477233">6c05787</a>
-- <a href="https://github.com/parmantolab/hari-rtc/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6">4864217</a>
+- <a href="https://github.com/parmantolab/hari-rtc4portal/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6">4864217</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

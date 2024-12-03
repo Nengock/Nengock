@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/a27e7747d28e88c6a04648f0cb589514e68d9ddc\"><strong>a</strong>27e7747d28e88c6a04648f0cb589514e68d9ddc</a>",
+    "body": "- <a href=\"https://github.com/Nengock/coba-coba/commit/a773f4a3a4cd4dea7b94acb760ddd7daaa325b02\"><strong>a</strong>773f4a3a4cd4dea7b94acb760ddd7daaa325b02</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,14 +24,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"ignore\".",
-    "body": "My favorite commit message words are:\n\n1. ignore (used 20 times)\n2. to (used 18 times)\n3. adding (used 16 times)\n4. problem (used 11 times)\n5. fixing (used 11 times)",
+    "body": "My favorite commit message words are:\n\n1. ignore (used 20 times)\n2. to (used 18 times)\n3. adding (used 16 times)\n4. fixing (used 11 times)\n5. problem (used 11 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/parmantolab/hari-rtc/commit/99aade1f4ed8b56cc5caaa5c228b3dcdd9e3d34d\">99aade1</a>: fixing server down issue in iMHere\n- <a href=\"https://github.com/parmantolab/hari-rtc/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6\">4864217</a>: fixing run on the background attempt 1\n- <a href=\"https://github.com/parmantolab/hari-rtc/commit/a27e7747d28e88c6a04648f0cb589514e68d9ddc\">a27e774</a>: fixing css",
+    "body": "Commits:\n\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/99aade1f4ed8b56cc5caaa5c228b3dcdd9e3d34d\">99aade1</a>: fixing server down issue in iMHere\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6\">4864217</a>: fixing run on the background attempt 1\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/a27e7747d28e88c6a04648f0cb589514e68d9ddc\">a27e774</a>: fixing css",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/7f7eabf47a72a37ef1f40403da09ac3260ebebcb\">7f7eabf</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/ee512aa6b3c173b615e3ddc9d4f546a0032b8bc3\">ee512aa</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/e9684744d451e83c59c92fed3a17ed7c09a7226f\">e968474</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/d2c8c763792fefb7073b017b03321cd0ef567c68\">d2c8c76</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/6c0578703e30cd614ed0e07bb3d9aa02d1477233\">6c05787</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6\">4864217</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/7f7eabf47a72a37ef1f40403da09ac3260ebebcb\">7f7eabf</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/ee512aa6b3c173b615e3ddc9d4f546a0032b8bc3\">ee512aa</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/e9684744d451e83c59c92fed3a17ed7c09a7226f\">e968474</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/d2c8c763792fefb7073b017b03321cd0ef567c68\">d2c8c76</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/6c0578703e30cd614ed0e07bb3d9aa02d1477233\">6c05787</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6\">4864217</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]

@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. ignore (used 20 times)
 2. to (used 18 times)
 3. adding (used 16 times)
-4. problem (used 11 times)
-5. fixing (used 11 times)
+4. fixing (used 11 times)
+5. problem (used 11 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
