@@ -6,8 +6,8 @@ My favorite commit message words are:
 
 1. ignore (used 20 times)
 2. adding (used 16 times)
-3. commit (used 11 times)
-4. update (used 11 times)
+3. update (used 12 times)
+4. commit (used 11 times)
 5. fixing (used 11 times)
 
 
