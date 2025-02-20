@@ -12,6 +12,10 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
+      - name: Configure Git
+        run: 
+          git config --local user.email "nengock@yahoo.com"
+          git config --local user.name "Wayan P."
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
         env:
