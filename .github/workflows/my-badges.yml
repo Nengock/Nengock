@@ -18,6 +18,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Update My Quote
         uses: siddharth2016/quote-readme@main
-        with:
-          author_name: Wayan P.
-          author_email: nengock@yahoo.com
