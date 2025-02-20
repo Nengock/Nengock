@@ -20,5 +20,5 @@ jobs:
       - name: Update My Quote
         uses: siddharth2016/quote-readme@main
         with:
-          username: "Wayan P."
+          username: "Nengock"
           
