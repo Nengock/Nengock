@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Configure Git
-        run: 
+        run: |
           git config  user.email "nengock@yahoo.com"
           git config  user.name "Wayan P."
       - name: Update My Badges
