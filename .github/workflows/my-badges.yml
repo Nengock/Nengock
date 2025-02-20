@@ -13,13 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update My Badges
-        run: |
-          git config --global user.name "Wayan P"
-          git config --global user.email "nengock@yahoo.com"
-          npx update-my-badges ${{github.repository_owner}}
+        run: npx update-my-badges ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: Nengock
-      #- name: Update My Quote
-      #  uses: siddharth2016/quote-readme@main
+      - name: Update My Quote
+        uses: siddharth2016/quote-readme@main
           
