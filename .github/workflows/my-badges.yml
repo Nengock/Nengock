@@ -14,8 +14,8 @@ jobs:
     steps:
       - name: Configure Git
         run: 
-          git config --local user.email "nengock@yahoo.com"
-          git config --local user.name "Wayan P."
+          git config  user.email "nengock@yahoo.com"
+          git config  user.name "Wayan P."
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
         env:
