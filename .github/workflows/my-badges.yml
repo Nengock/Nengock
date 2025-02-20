@@ -14,8 +14,11 @@ jobs:
     steps:
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
-        #env:
-          #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          #GITHUB_USER: Nengock
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: Nengock
       - name: Update My Quote
         uses: siddharth2016/quote-readme@main
+        with:
+          username: "Wayan P."
+          
