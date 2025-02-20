@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 21 times)\n2. ignore (used 20 times)\n3. adding (used 16 times)\n4. commit (used 11 times)\n5. my-badges.yml (used 11 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 22 times)\n2. ignore (used 20 times)\n3. adding (used 16 times)\n4. my-badges.yml (used 12 times)\n5. commit (used 11 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Nengock/Nengock/commit/f525c7fbbca50eca08eced6f466496ed6a7e6c0e\">f525c7f</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/03ea802df42bde6c4fdb459c6ebab89caa0eb59a\">03ea802</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/c27ad4cf1a383b0a8c4a7f489352dbeee7281722\">c27ad4c</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/9ea664b603fe90c622cb4a4a5c89705285cb42a5\">9ea664b</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/28c7209cd58c8b19b9eef34279acd7b2b864190c\">28c7209</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/cd9ff9bf0d248570052addd129c147ed5c114f60\">cd9ff9b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Nengock/Nengock/commit/3fe6c0474e3a28ded583567fa1b88664811450fd\">3fe6c04</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/f525c7fbbca50eca08eced6f466496ed6a7e6c0e\">f525c7f</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/03ea802df42bde6c4fdb459c6ebab89caa0eb59a\">03ea802</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/c27ad4cf1a383b0a8c4a7f489352dbeee7281722\">c27ad4c</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/9ea664b603fe90c622cb4a4a5c89705285cb42a5\">9ea664b</a>\n- <a href=\"https://github.com/Nengock/Nengock/commit/28c7209cd58c8b19b9eef34279acd7b2b864190c\">28c7209</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
