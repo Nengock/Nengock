@@ -75,5 +75,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/7f7eabf47a72a37ef1f40403da09ac3260ebebcb\">7f7eabf</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/ee512aa6b3c173b615e3ddc9d4f546a0032b8bc3\">ee512aa</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/e9684744d451e83c59c92fed3a17ed7c09a7226f\">e968474</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/d2c8c763792fefb7073b017b03321cd0ef567c68\">d2c8c76</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/6c0578703e30cd614ed0e07bb3d9aa02d1477233\">6c05787</a>\n- <a href=\"https://github.com/parmantolab/hari-rtc4portal/commit/4864217f0d7e2cef3f4e881b956e89ff629fced6\">4864217</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Nengock/reference-codeql-query/commit/09d66f416628573f87f51dea201fcbeb98baa1c1\">09d66f4</a>\n- <a href=\"https://github.com/Nengock/connect-the-dots/commit/e8fc8cd113d91dfb540b25f78d6c667dabd7623a\">e8fc8cd</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
