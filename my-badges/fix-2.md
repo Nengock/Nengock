@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/parmantolab/hari-rtc4portal/commit/7f7eabf47a72a37ef1f40403da09ac3260ebebcb">7f7eabf</a>: fixing z-index of remote video and fixing incoming call handler
-- <a href="https://github.com/parmantolab/hari-rtc4portal/commit/ee512aa6b3c173b615e3ddc9d4f546a0032b8bc3">ee512aa</a>: fixing z-index of remote video and fixing incoming call handler
+- <a href="https://github.com/Nengock/hotel-booking-cancelation/commit/1d716b75c655ca3ac97863fcd8fca86b4b7043b1">1d716b7</a>: fix: typo
+- <a href="https://github.com/Nengock/hotel-booking-cancelation/commit/408be99b46b2767d5c0030281f90eef90314f2e2">408be99</a>: fix: revamp the whole exercise so all use the correct features"
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
