@@ -12,10 +12,26 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git User
+        run: |
+          git config --global user.name "Nengock"
+          git config --global user.email "Nengock@users.noreply.github.com"
+
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git add .
+          git commit -m "Update badges"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Update My Quote
         uses: siddharth2016/quote-readme@main
-          
