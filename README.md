@@ -16,7 +16,7 @@
 <!-- my-badges end -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--
 **Nengock/Nengock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
