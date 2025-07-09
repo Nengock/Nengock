@@ -16,7 +16,7 @@
 <!-- my-badges end -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
+<i>❝“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--
 **Nengock/Nengock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
