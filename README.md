@@ -16,7 +16,7 @@
 <!-- my-badges end -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
+<i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--
 **Nengock/Nengock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
