@@ -16,7 +16,7 @@
 <!-- my-badges end -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
+<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--
 **Nengock/Nengock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
