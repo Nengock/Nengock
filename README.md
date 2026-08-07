@@ -16,7 +16,7 @@
 <!-- my-badges end -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
+<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--
 **Nengock/Nengock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
